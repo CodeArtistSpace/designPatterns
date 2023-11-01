@@ -1,4 +1,5 @@
 # Design Patterns
+Read this in other languages [简体中文](README.zh-cn.md) 
 ## Six Principle of Design Patterns
 - Single Responsibility Principle
 - Open Close Principle
